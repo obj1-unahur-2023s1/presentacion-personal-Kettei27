@@ -1,35 +1,29 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# MI PRESENTACIÓN
+![IMG_20221211_232939_816](https://user-images.githubusercontent.com/112486573/228848203-3474bf98-1e30-40a2-9b0b-011ee82e49c1.jpg)
 
-Bienvenidos a
-# Programación con objetos I
+### Un poco sobre mí
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+- Edad:     19 (a punto de cumplir 20 XD)
+- Nombres:  Alan Ezequiel
+- Apellido: Amaya
+- Carrera actual:  Tecnicatura en Programación
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Me anoté a esta carrera porque era lo que más llamaba mi atención, era de las cosas que más me gusta también el conocer y aprender a controlar todo lo relacionado con las computadoras. Al igual que también me interesó el armado de PC, asi que chusmeando y aprendiendo con lo que sabía pude armar mi compu actual solo.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+#### Materias que ya aprobé:
+- Matemática para informática I y II
+- Organización de computadoras I y II
+- Inglés I y II
+- Taller de lenguajes de marcado y tecnologías web
+- Programación estructurada
+- Nuevos entornos y lenguajes
+- Introducción a lógica y problemas computacionales
+- Bases de datos
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+#### Entre mis pasatiempos favoritos están:
+1. Jugar videojuegos
+2. Ver anime/series/pelis
+3. Jugar voley
+4. Escuchar música
+5. Dibujar
+6. Pasear 
